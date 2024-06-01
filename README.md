@@ -9,20 +9,24 @@ An Inventory System built with ASP.NET Core MVC, Entity Framework Core, and Iden
 - User authentication and authorization with ASP.NET Core Identity
 - Responsive UI for an optimal user experience
 - Product buying functionality
-- One-click payment integration
+- One-click payment 
 - Order details and history
 - Sales bill reports generation
 
 
-![Home page](https://github.com/DynamicGuy18/InventoryManagementSystem/blob/main/Images/Home.png)
 
-![Login Page](https://github.com/DynamicGuy18/InventoryManagementSystem/blob/main/Images/Login.png)
 
-![Order Place](https://github.com/DynamicGuy18/InventoryManagementSystem/blob/main/Images/Place.png)
+![Home Page](https://github.com/DynamicGuy18/InventoryManagementSystem/blob/881619cd7886c9ff39413890dca24760db1ba8ae/Images/home.png)
 
-![Order Status](https://github.com/DynamicGuy18/InventoryManagementSystem/blob/main/Images/Pay.png)
 
-![Billing Report](https://github.com/DynamicGuy18/InventoryManagementSystem/blob/main/Images/Sales.png)
+![Login Page](https://github.com/DynamicGuy18/InventoryManagementSystem/blob/881619cd7886c9ff39413890dca24760db1ba8ae/Images/Login.png)
+
+
+![Buy Product](https://github.com/DynamicGuy18/InventoryManagementSystem/blob/881619cd7886c9ff39413890dca24760db1ba8ae/Images/Place.png)
+
+![Order Status](https://github.com/DynamicGuy18/InventoryManagementSystem/blob/881619cd7886c9ff39413890dca24760db1ba8ae/Images/Pay.png)
+
+![Sale Report](https://github.com/DynamicGuy18/InventoryManagementSystem/blob/881619cd7886c9ff39413890dca24760db1ba8ae/Images/GenerateReport.png)
 
 
 ## Technologies Used
